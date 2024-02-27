@@ -73,3 +73,7 @@ def request_word_count(pdf_file_path):
 pdf_file_path = r"path/to/your/pdf/file.pdf"
 word_count = request_word_count(pdf_file_path)
 print(f"The PDF file contains {word_count} words.")
+
+```
+## UML Diagram
+![UML Diagram](UMLDiagram.png)
